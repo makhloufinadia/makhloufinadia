@@ -1,10 +1,10 @@
 # 💫About Me :
 🔭 I’m currently working on my skills </br>
-🌱i'm currently learning more about frontend developement
-🤝 I’m looking for help with exploring new technologies
-📫 How to reach me : makhloufinadia982@gmail.com  or Nadia.makhloufi@etu.usthb.dz
-👨‍💻 All of my projects are available at: https://github.com/makhloufinadia
-⚡ Fun fact : i start driving at the age of 9 hihi
+🌱i'm currently learning more about frontend developement </br>
+🤝 I’m looking for help with exploring new technologies </br>
+📫 How to reach me : makhloufinadia982@gmail.com  or Nadia.makhloufi@etu.usthb.dz </br>
+👨‍💻 All of my projects are available at: https://github.com/makhloufinadia </br>
+⚡ Fun fact : i start driving at 9 hihi </br>
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nadiamakhloufi) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/gypsie#9791) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Nady Mk](https://web.facebook.com/nady.mk.96)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nady_mk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Nadia Makhloufi](https://www.linkedin.com/in/nadia-makhloufi-2681031ba/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@makhloufinadia](https://medium.com/@makhloufinadia982)) 
