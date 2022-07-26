@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on my skills
+🔭 I’m currently working on my skills </br>
 🌱i'm currently learning more about frontend developement
 🤝 I’m looking for help with exploring new technologies
 📫 How to reach me : makhloufinadia982@gmail.com  or Nadia.makhloufi@etu.usthb.dz
